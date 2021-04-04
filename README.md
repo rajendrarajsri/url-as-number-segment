@@ -1,1 +1,1 @@
-# url-as-number-segment
+# yourls-number-segment
