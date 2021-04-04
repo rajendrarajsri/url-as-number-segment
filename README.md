@@ -1,1 +1,1 @@
-# yourls-number-segment
+# yourls-number-segment-url
